@@ -1,2 +1,2 @@
 # turbo-lamp
-Projects for creating turbo lamps
+Project for creating turbo lamps
